@@ -1,4 +1,4 @@
 requiem
 =======
 
-Legacy? no problem, execute'em!
+Legacy? Execute'em!
